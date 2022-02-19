@@ -1,8 +1,8 @@
-##GoLang multithreaded simple program
+## GoLang multithreaded simple program
 
 Demonstration of Coordinator and Workers communication via channels
 
-##Get started
+## Get started
 
 1. Clone the repo
 2. cd into MutiThreading-Go directory
